@@ -1,0 +1,55 @@
+.MainWrapper {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 200px;
+}
+
+.buttonStyle {
+  width: 172px;
+  height: 89px;
+  background: #ffb4b4;
+  border-radius: 15px;
+  margin-right: 89px;
+  font-size: 40px;
+  font-weight: 700;
+  border: none;
+}
+
+.buttonStyle:hover {
+  width: 172px;
+  height: 89px;
+  background: #f17171;
+  border-radius: 15px;
+  margin-right: 89px;
+  font-size: 40px;
+  font-weight: 700;
+  border: none;
+}
+
+.TitleBox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  height: 99px;
+  font-size: 40px;
+  background: #70e1e8;
+  border-radius: 15px;
+  font-weight: 700;
+  margin-bottom: 68px;
+}
+
+.pStyle {
+  margin-top: 183px;
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 73px;
+}
+
+.pStyle2 {
+  margin-top: 10px;
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 73px;
+}
