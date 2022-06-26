@@ -1,5 +1,5 @@
 import React from 'react';
-import "./President.css";
+import "./President.css"
 
 
 const President = () => {
