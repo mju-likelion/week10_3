@@ -1,0 +1,24 @@
+div, p{
+    text-align: center;
+}
+.notice_box{
+    width: 172px;
+    height: 89px;
+    background: #ffb4b4;
+    border-radius: 15px;
+    margin-right: 89px;
+    font-size: 40px;
+    font-weight: 700;
+    border: none;
+}
+
+.notice_box:hover{
+    width: 172px;
+    height: 89px;
+    background: #f17171;
+    border-radius: 15px;
+    margin-right: 89px;
+    font-size: 40px;
+    font-weight: 700;
+    border: none;
+}

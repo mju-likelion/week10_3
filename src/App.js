@@ -5,7 +5,7 @@ import Main from './Main';
 
 function App() {
   return ( 
-    <Routes>
+  <Routes>
   <Route path='/' element={<Main />}/>
   </Routes>
   );
